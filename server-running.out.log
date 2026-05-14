@@ -1,0 +1,5 @@
+
+> projeto-app-flow@1.0.0 start:dev
+> tsx --env-file=.env src/server.ts
+
+servidor iniciado na porta 42100
